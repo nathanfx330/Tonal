@@ -82,10 +82,3 @@ MIT License - see the [LICENSE](LICENSE) file for details.
 - [FFmpeg](https://ffmpeg.org/) for video format conversion.
 - [NumPy](https://numpy.org/) for numerical computations.
 ```
-
-### Changes:
-- Simplified the language for brevity while retaining the important details.
-- Consolidated the warning message and removed unnecessary explanations.
-- Streamlined the installation and usage sections for clarity.
-
-Let me know if you need further edits!
