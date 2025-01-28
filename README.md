@@ -2,9 +2,8 @@
 
 ⚠️ **Seizure Warning**: The visuals created by this project are based on audio intensity and may include rapid flashes or changes in brightness. Use caution if you are sensitive to flashing lights or have a history of seizures.
 
-**Tonal** converts audio into dynamic visuals by translating audio intensity into video frame values (ranging from 0 to 1). Utilizing a logarithmic scale, it transforms the intensity data into shades of grey, which drive animations in Blackmagic Fusion. This enables you to create engaging visualizations for your projects using the Probe modifier.
 
-
+**Tonal** transforms audio into captivating visualizations by converting audio intensity into dynamic video frames. Using a logarithmic scale, it translates sound intensity into grayscale values (ranging from 0 to 255), which drive animations in Blackmagic Fusion. This process leverages the Probe modifier to enable seamless integration of audio-driven animations into your creative projects. The tool processes audio files frame by frame, creating engaging visuals that dynamically respond to the sound's energy.
 ## Features
 - Converts audio intensity into video frame values (0 to 1).
 - Bakes a Real-time audio visualization using a logarithmic scale.
