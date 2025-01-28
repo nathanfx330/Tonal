@@ -2,7 +2,7 @@
 
 ⚠️ **Seizure Warning**: The visuals created by this project are based on audio intensity and may include rapid flashes or changes in brightness. Use caution if you are sensitive to flashing lights or have a history of seizures.
 
-**Tonal** transforms audio into dynamic visuals by encoding audio intensity into video frame values (0 to 1). Using a logarithmic scale, it visualizes sound in real-time, creating engaging video representations. Perfect for audio-visual projects and optimized for easy processing in DaVinci Resolve/Fusion Probe Modifier.
+**Tonal** transforms audio into dynamic visuals by encoding audio intensity into video frame values (0 to 1). Using a logarithmic scale, it bakes intensity data into shades of grey, values between 0 and 1, to drive animations in black magic fusion, creating engaging video representations. Perfect for audio-visual projects and optimized for easy processing in DaVinci Resolve/Fusion Probe Modifier.
 
 ## Features
 - Converts audio intensity into video frame values (0 to 1).
