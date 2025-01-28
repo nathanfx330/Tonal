@@ -9,7 +9,6 @@
 - Converts audio intensity into video frame values (0 to 1).
 - Bakes a Real-time audio visualization using a logarithmic scale.
 - Ideal for long-format projects: export the video and use the Probe Modifier in Resolve/Fusion to drive animations.
-- Designed for DaVinci Resolve/Fusion in mind.
 
 ## Requirements
 - Python 3.x
