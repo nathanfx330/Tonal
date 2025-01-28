@@ -8,7 +8,7 @@
 ## Features
 - Converts audio intensity into video frame values (0 to 1).
 - Bakes a Real-time audio visualization using a logarithmic scale.
-- Ideal for long-format projects: export the video and use the Probe Modifier in Resolve/Fusion for animation control.
+- Ideal for long-format projects: export the video and use the Probe Modifier in Resolve/Fusion to drive animations.
 - Optimized for use in DaVinci Resolve/Fusion for video editing.
 
 ## Requirements
